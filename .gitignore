@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.log
+
+# Figma/Design exports cache
+*.fig
+*.sketch
+*.psd
+*.xcf
+*.ai
+
+# Large source files (optional, if you only want to store final exports)
+*.tif
+*.tiff
+*.raw
+
+# Ignore zip/archives (if you make bundles for sharing internally)
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Ignore node_modules in case someone tests builds locally
+node_modules/
+
+# Ignore personal settings
+*.idea/
+*.vscode/
+
