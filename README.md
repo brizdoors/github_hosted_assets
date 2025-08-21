@@ -1,2 +1,16 @@
-# github_hosted_assets
-This repo ensures that all team members, partners, and collaborators have access to the most up-to-date Briz Doors brand assets. Keeping branding centralized here helps maintain a consistent and professional identity across all platforms and media.
+# Briz Doors Branding Assets
+
+This repository hosts official branding materials for Briz Doors.
+
+## Usage
+
+- **Logos:** `branding/logos/...`
+- **Email signatures:** `branding/signatures/...`
+- **Brand guidelines:** `branding/guidelines/...`
+
+⚠️ Internal Use Only — see [LICENSE](LICENSE).
+
+## Hosting
+
+Assets can be accessed via GitHub Pages after enabling Pages in repository settings.
+Once enabled, files will be served at:
